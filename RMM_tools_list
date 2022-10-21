@@ -1,4 +1,4 @@
-"*atera*","*superops*","*NinjaRMMAgent*","*kcsSetp*","*barracuda*","*domotz*","*manageengine*","*site24x7*","*connectwise*","*pulseway*","*kcs*","*itarian*"
+"*atera*","*superops*","*NinjaRMMAgent*","*kcsSetp*","*barracuda*","*domotz*","*manageengine*","*site24x7*","*connectwise*","*pulseway*","*kcs*","*itarian*","*todesk*","*rudesktop*","*anydesk*","*teamviewer*"
 
 
 FilePath:
@@ -12,6 +12,10 @@ FilePath:
 "C:\ProgramData\connectwise*"
 "C:\ProgramData\pulseway*"
 "C:\ProgramData\itarian*"
+"C:\ProgramData\todesk*"
+"C:\ProgramData\rudesktop*"
+"C:\ProgramData\anydesk*"
+"C:\ProgramData\teamviewer*"
 
 
 Registry Key:
@@ -25,6 +29,10 @@ Registry Key:
 "\HKEY_LOCAL_MACHINE\SOFTWARE\connectwise*"
 "\HKEY_LOCAL_MACHINE\SOFTWARE\pulseway*"
 "\HKEY_LOCAL_MACHINE\SOFTWARE\itarian*"
+"\HKEY_LOCAL_MACHINE\SOFTWARE\todesk*"
+"\HKEY_LOCAL_MACHINE\SOFTWARE\rudesktop*"
+"\HKEY_LOCAL_MACHINE\SOFTWARE\anydesk*"
+"\HKEY_LOCAL_MACHINE\SOFTWARE\teamviewer*"
 
 atera
 superops
@@ -37,6 +45,10 @@ site24x7
 connectwise
 pulseway
 itarian
+todesk
+rudesktop
+anydesk
+teamviewer
 
 www.atera.com
 superops.ai
@@ -49,3 +61,7 @@ www.site24x7.com
 www.connectwise.com
 www.pulseway.com
 www.itarian.com
+www.todesk.com
+www.rudesktop.com
+www.anydesk.com
+www.teamviewer.com
